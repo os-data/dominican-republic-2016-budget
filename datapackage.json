@@ -184,7 +184,7 @@
       "format": "csv",
       "hash": "5d2794d9dbff551c2491e4589207c5eb",
       "name": "dominican_republic_2016_budget",
-      "path": "https://storage.openspending.org/dominican_republic_2016_budget.csv",
+      "path": "https://storage.openspending.org/dominican-republic-2016-budget/dominican_republic_2016_budget.csv",
       "schema": {
         "fields": [
           {
