@@ -2,6 +2,11 @@
   "@context": "http://schemas.frictionlessdata.io/fiscal-data-package.jsonld",
   "bytes": 2467931,
   "count_of_rows": 4270,
+  "countryCode": "DO",
+  "fiscalPeriod": {
+    "start": "2016-01-01",
+    "stop": "2016-12-31"
+  },
   "hash": "7e7e068f09b607dd94b019e116f45f23",
   "model": {
     "dimensions": {
